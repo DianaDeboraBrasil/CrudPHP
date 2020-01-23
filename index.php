@@ -1,28 +1,21 @@
 <!doctype html>
+<html lang="en">
+  <head> 
 <!-- Required meta tags -->
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="/cadastro/css/bootstrap.min.css">
+	
+	  <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
 <meta charset='utf-8'>
       <title>CADASTRO</title>
-      <script src="/cadastro/js/jquery-3.4.1.js"></script>
+      <script src="js/jquery-3.4.1.js"></script>
       <script src="js.js" type="text/javascript"></script>
-      <script src="/cadastro/js/bootstrap.js"></script>
-      <script src="/cadastro/js/bootstrap.min.js"></script>
+      <script src="js/bootstrap.js"></script>
+      <script src="js/bootstrap.min.js"></script>
 
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="/cadastro/css/bootstrap.min.css">
-
-<meta charset='utf-8'>
+</head>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="?go=#" id="go">MENU</a>
@@ -63,3 +56,4 @@ else{
 echo '<iframe src="'.$pagina.'" width="98%" height="500"></iframe>';
 ?>
 </div>
+</html>
